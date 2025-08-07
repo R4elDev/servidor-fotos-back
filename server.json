@@ -1,0 +1,22 @@
+{
+    "fotos": [
+        {
+            "id": 1,
+            "url_imagem":"https://lh3.googleusercontent.com/pw/AP1GczMNowFfA1DJjqzUJ_p4PZQ8KLU4Au0kq864PC5pTCqIh4cLzQtEALgXUq_qKhNzAK3RR2-r5ICM4Z69TMzvec8Dg0i1gh4GFzp1dc6d8zlKvf-jMR3qJx1V9vcrzh25EVHyBec3q30iPm02RFkZQyvg=w1876-h2502-s-no?authuser=0",
+            "legenda":"Banco próximo da quadra",
+            "data":"31/07/2025"
+        },
+        {
+            "id": 2,
+            "url_imagem":"https://lh3.googleusercontent.com/pw/AP1GczPkofbKzt_r2i6RYp920plu6OnItFfvz2bU8osTS50wP74DMAa3YWfM2ysEMZNve0SUwKcPugSzAlSOQgXJgm9wCL5QvcAW4GDCwkF98cfbb1Aq-K4q8lAp03zwIdIJ0DLXSA93IyF9cGnqovf2Xub-=w1876-h2502-s-no?authuser=0",
+            "legenda":"O lugar mais resenha da escola",
+            "data":"31/07/2025"
+        },
+        {
+            "id": 3,
+            "url_imagem":"https://lh3.googleusercontent.com/pw/AP1GczMbpb4gGzmm4pzSQJieqIYimX3-uqgYjYAZ75I95nmtom-wkoXwJYhCt1wRR1K2SodHHCY6D8fiqdLx6aHQTLnPKiPb7nk9H95yJpS-A92jq64b-NnxchrfwZv-2CtiyE3zk2SewgahsX_aIiz9G22k=w1876-h2502-s-no?authuser=0",
+            "legenda":"Lugar que começa o sofrimento e termina",
+            "data":"31/07/2025"
+        }
+    ]
+}
